@@ -3,7 +3,7 @@ public class EjemploArrayAleatorio {
 
   public static void main(String[] args) {
     
-    final int LARGOARRAY = 20;
+    final int LARGOARRAY = 30;
     final int INICIOINTERVALO = 1;
     final int FININTERVALO = 10;
     int[] numeros = new int[LARGOARRAY];
